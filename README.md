@@ -1,2 +1,2 @@
 # Today I Learned
-Record what I learned each day
+Record what I learned(or TODO list) each day
